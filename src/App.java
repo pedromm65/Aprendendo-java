@@ -1,11 +1,9 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        int idade;
-        idade = 37;
+        double salario = 1270.50;
+        int valor = (int) salario;
 
-        System.out.println(idade);
-
-        System.out.println("A idade é " + idade);
+        System.out.println(valor);
     }
 }
