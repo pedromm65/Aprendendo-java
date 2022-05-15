@@ -8,7 +8,7 @@ public class TestaCondicional {
         } else if (quantidadePessoas >= 2){
             System.out.println("Voce não tem 18 mas pode entrar");
         } else {
-            System.out.println("Voce não pode entrar");
+            System.out.println("Voce não pode entrar");  
         }
     }
 }
