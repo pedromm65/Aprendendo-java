@@ -12,3 +12,4 @@ public class TestaCaracteres {
         System.out.println(valor);
   }
 }
+ 
