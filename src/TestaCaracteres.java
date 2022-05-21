@@ -8,7 +8,7 @@ public class TestaCaracteres {
         System.out.println(valor);
 
         valor = (char) (valor + 1);
-  
+   
         System.out.println(valor);
   } 
 }
