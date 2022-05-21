@@ -10,7 +10,7 @@ public class TestaCaracteres {
         valor = (char) (valor + 1);
 
         System.out.println(valor);
-  }
+  } 
 }
  
  
